@@ -1,0 +1,1 @@
+hello, this content has written by file handling concepts.
